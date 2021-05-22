@@ -1,0 +1,16 @@
+http:
+  host: 0.0.0.0
+  port: 8081
+pro:
+  host: "product-project-shivam.us-e2.cloudhub.io"
+  port: "80"
+  protocol: "HTTP"
+  
+Ord:
+   host: orderdetailsapi-project-shrutihp.us-e2.cloudhub.io
+   port: 80
+   protocol: HTTP
+Pay:
+   host: payment-project-shivam.us-e2.cloudhub.io
+   port: 80
+   protocol: HTTP
